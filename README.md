@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Chanwoo&color=93acff&fontAlign=82&fontColor=FFFFFF&animation=fadeIn&fontSize=61)
 <h3 align="center">🛠 Technology Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
+<!-- <p align="center"> Techs that I've used at least once </p>
 <p align="center"><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-9B9B9B?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/>
@@ -37,3 +37,4 @@
 </p>  
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+ -->
