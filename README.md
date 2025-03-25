@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=slice&text=Chanwoo&color=93acff&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&fontSize=61" />
 </p>
 
@@ -12,23 +12,19 @@
 
 <h2 align="center">🏫 Experience & Social Activity</h2>
 
-<ul align="center">
-  <li>국민대학교 소프트웨어융합대학 제7대 학생회 ‘콜백’ 총무부 부장 (2022.12 - 2023.11)</li>
-  <li>국민대학교 총학생회 비상대책부위원장 (2023.12 - 2024.03)</li>
-  <li>국민대학교 등록금심의위원회 학생위원장 (2023.12 - 2024.03)</li>
-  <li>국민대학교 생활협동조합 이사회 학생위원장 (2024.02 - 2025.05)</li>
-  <li>국민대학교 소프트웨어융합대학 제8대 학생회 ‘CONNECT’ 학생회장 (2023.12 - 2024.11)</li>
-</ul>
+<div align="center">국민대학교 소프트웨어융합대학 제7대 학생회 ‘콜백’ 총무부 부장 (2022.12 - 2023.11)</div>
+<div align="center">국민대학교 총학생회 비상대책부위원장 (2023.12 - 2024.03)</div>
+<div align="center">국민대학교 등록금심의위원회 학생위원장 (2023.12 - 2024.03)</div>
+<div align="center">국민대학교 생활협동조합 이사회 학생위원장 (2024.02 - 2025.05)</div>
+<div align="center">국민대학교 소프트웨어융합대학 제8대 학생회 ‘CONNECT’ 학생회장 (2023.12 - 2024.11)</div>
 
 <br/>
 
 <h2 align="center">💻 Projects</h2>
 
-<ul align="center">
-  <li>자립준비청년 지원 웹 서비스 <b>'Cooing'</b> Frontend 개발 (2024.03 - 2024.06)</li>
-  <li>국민대학교 북악리그 전용 웹사이트 <b>'승부각'</b> Frontend 개발 (2024.09 - 2024.12)</li>
-  <li>보이스팩 거래 플랫폼 <b>'코보스'</b> Frontend 개발 (2024.11 ~ )</li>
-</ul>
+<div align="center"><b>'Cooing'</b> - 자립준비청년 지원 웹 서비스 Frontend 개발 (2024.03 - 2024.06)</div>
+<div align="center"><b>'승부각'</b> - 국민대학교 북악리그 전용 웹사이트 Frontend 개발 (2024.09 - 2024.12)</div>
+<div align="center"><b>'코보스'</b> - 보이스팩 거래 플랫폼 Frontend 개발 (2024.11 ~ )</div>
 
 <br/>
 
@@ -42,4 +38,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
