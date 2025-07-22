@@ -20,7 +20,7 @@
 
 <div align="center"><b>'Cooing'</b> - 자립준비청년 지원 웹 서비스 Frontend 개발 (2024.03 - 2024.06)</div>
 <div align="center"><b>'승부각'</b> - 국민대학교 북악리그 전용 웹사이트 Frontend 개발 (2024.09 - 2024.12)</div>
-<div align="center"><b>'코보스'</b> - 보이스팩 거래 플랫폼 Frontend 개발 (2024.11 ~ )</div>
+<div align="center"><b>'COVOS'</b> - 보이스팩 거래 플랫폼 Frontend 개발 (2024.11 ~ 2025.05 )</div>
 
 <br/>
 
